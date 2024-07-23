@@ -19,5 +19,7 @@ const ProductList = async () => {
     </div>
   );
 };
+console.log(ProductCard)
+
 
 export default ProductList;
